@@ -17,4 +17,4 @@ A complete roadmap for students (middle school) who want to build strong foundat
 </p>
 
 ---
-![Description de l'image](img.png)
+![Description de l'image](.png)
