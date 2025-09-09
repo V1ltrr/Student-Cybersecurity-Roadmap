@@ -17,3 +17,4 @@ A complete roadmap for students (middle school) who want to build strong foundat
 </p>
 
 ---
+![Description de l'image](ChatGPT Image 9 sept. 2025, 19_09_24.png)
