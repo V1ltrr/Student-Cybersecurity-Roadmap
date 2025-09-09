@@ -19,5 +19,5 @@ A complete roadmap for students (middle school) who want to build strong foundat
 ---
 
 <p align="center">
-  <img width="700" height="700" src="Repo-Icon.png">
+  <img width="600" height="600" src="Repo-Icon.png">
 </p>
