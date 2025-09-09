@@ -2,6 +2,10 @@
 A complete roadmap for students (middle school) who want to build strong foundations and understanding of the world of ethical hacking.
 
 <p align="center">
+  <img width="600" height="600" src="Repo-Icon.png">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Version-0.1-green?style=for-the-badge">
   <img src="https://img.shields.io/github/license/v1ltrr/Student-Cybersecurity-Roadmap?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/v1ltrr/Student-Cybersecurity-Roadmap?style=for-the-badge">
@@ -17,7 +21,3 @@ A complete roadmap for students (middle school) who want to build strong foundat
 </p>
 
 ---
-
-<p align="center">
-  <img width="600" height="600" src="Repo-Icon.png">
-</p>
