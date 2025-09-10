@@ -1,6 +1,4 @@
 <h1 align="center">  Student Cybersecurity Roadmap </h1>
-A complete roadmap for students who want to build foundations and understanding of the world of ethical hacking.
-
 <p align="center">
   <img src="repo-icon.png">
 </p>
@@ -21,3 +19,5 @@ A complete roadmap for students who want to build foundations and understanding 
 </p>
 
 ---
+
+A complete roadmap for students who want to build foundations and understanding of the world of ethical hacking.
