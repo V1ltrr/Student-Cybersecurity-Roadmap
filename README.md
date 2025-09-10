@@ -19,5 +19,6 @@
 </p>
 
 ---
-
-A complete roadmap for students who want to build foundations and understanding of the world of ethical hacking.
+<p align="center">
+  A complete roadmap for students who want to build foundations and understanding of the world of ethical hacking.
+</p>
