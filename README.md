@@ -2,7 +2,7 @@
 A complete roadmap for students (middle school) who want to build strong foundations and understanding of the world of ethical hacking.
 
 <p align="center">
-  <img width="600" height="600" src="Repo-Icon.png">
+  <img src="repo-icon.png">
 </p>
 
 <p align="center">
