@@ -20,7 +20,5 @@
 
 ---
 <h2 >  Description : </h2>
-<p align="center">
-  A complete roadmap for students who want to build foundations and understanding of the world of ethical hacking.
-  This path is essentially based on my own experience, so it has been adapted to avoid the mistakes I made and the things I wish I had known earlier.
-</p>
+A complete roadmap for students who want to build foundations and understanding of the world of ethical hacking.
+This path is essentially based on my own experience, so it has been adapted to avoid the mistakes I made and the things I wish I had known earlier.
