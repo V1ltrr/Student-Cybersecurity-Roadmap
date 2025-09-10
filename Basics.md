@@ -3,9 +3,9 @@
 
 ---
 
-<h2 >  1.What is cybersecurity : </h2>
-<h2 >  2.Common threats : </h2>
-<h2 >  3.Essential definitions : </h2>
+<h2 >  1. What is cybersecurity </h2>
+<h2 >  2. Common threats </h2>
+<h2 >  3. Essential definitions </h2>
 
 ---
 
