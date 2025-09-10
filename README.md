@@ -32,7 +32,7 @@ Topic HERE :
 - file HERE
                      
 <h2 >  An error in the roadmap ? </h2>
-If you have detected a spelling or content error, please let us know via the “[Issues](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/issues)” section.
+If you have detected a spelling or content error, please let us know via the [Issues](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/issues) section.
 
 <h2 >  Description : </h2>
 <h2 >  Description : </h2>
