@@ -26,8 +26,9 @@ This path is essentially based on my own experience, so it has been adapted to a
 <h2 >  Roadmap : </h2>
 
 Introduction to Cybersecurity :
-- [Basics](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/blob/Roadmap/Basics.md) (Ip)
-- file HERE
+- [Ip](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/blob/Roadmap/Basics.md) (x minutes to complete)
+- [Networks](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/blob/Roadmap/Basics.md) (x minutes to complete)
+- [Firewall](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/blob/Roadmap/Basics.md) (x minutes to complete)
 
 Topic HERE : 
 - file HERE
