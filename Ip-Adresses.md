@@ -18,8 +18,9 @@
 
 ---
 
-[^1]: TryHackMe, a recognized training platform that allows you to learn cybersecurity in a practical and fun way.
-
----
-
 Return to the [home page](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/blob/main/README.md).
+
+
+
+
+[^1]: TryHackMe, a recognized training platform that allows you to learn cybersecurity in a practical and fun way.
