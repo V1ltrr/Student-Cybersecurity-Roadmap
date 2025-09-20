@@ -19,11 +19,11 @@
 </p>
 
 ---
-<h2 >  Description : </h2>
+<h2 >  Description </h2>
 A complete roadmap for students who want to build foundations and understanding of the world of ethical hacking.
 This path is essentially based on my own experience, so it has been adapted to avoid the mistakes I made and the things I wish I had known earlier.
 
-<h2 >  Roadmap : </h2>
+<h2 >  Roadmap </h2>
 
 Network basics :
 - OSI model
@@ -56,7 +56,7 @@ TO CHANGE !!
 - [Networks](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/blob/Roadmap/Networks.md) (x minutes to complete)
 - [Firewall](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/blob/Roadmap/Firewall.md) (x minutes to complete)
 
-<h2 >  Ressources and inspirations : </h2>
+<h2 >  Ressources and inspirations </h2>
 This roadmap is inspired by free and paid content and resources, including websites, digitized files, videos, and books.
 
 The content that guided and inspired me in creating this roadmap includes :
