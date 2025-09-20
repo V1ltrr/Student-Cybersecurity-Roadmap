@@ -25,20 +25,36 @@ This path is essentially based on my own experience, so it has been adapted to a
 
 <h2 >  Roadmap : </h2>
 
-Introduction to Cybersecurity :
+Network basics :
+- OSI model
+- TCP/IP model
+- Network protocols
+- Network ports
+- Network equipment
+- IP Addresses (IPv4/IPv6, Public vs Private)
+- MAC and ARP addresses
+- DNS (Domain Name System)
+- HTTP/HTTPS
+- Network traffic analysis
+
+Operating systems :
+- Fundamentals of operating systems
+- Popular operating systems
+- Virtualization (VMware, VirtualBox)
+- File systems
+- Processes and services
+- User and group management
+
+TO CHANGE !!
 - [Ip Adresses](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/blob/Roadmap/Ip-Adresses.md) (x minutes to complete)
 - [Networks](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/blob/Roadmap/Networks.md) (x minutes to complete)
 - [Firewall](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/blob/Roadmap/Firewall.md) (x minutes to complete)
-
-Topic HERE : 
-- file HERE
-- file HERE
 
 <h2 >  Ressources and inspirations : </h2>
 This roadmap is inspired by free and paid content and resources, including websites, digitized files, videos, and books.
 
 The content that guided and inspired me in creating this roadmap includes :
-- The 101 concepts in cybersecurity ! ([digitized file here](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/blob/Roadmap/Ip-Adresses.md)) CHANGE LINK
+- The 101 concepts in cybersecurity ! ([digitized file here](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/blob/Roadmap/Ip-Adresses.md)) CHANGE LINK !!
                      
 <h2 >  An error in the roadmap ? </h2>
 
