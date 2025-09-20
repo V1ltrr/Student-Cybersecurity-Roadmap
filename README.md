@@ -31,7 +31,7 @@ Network basics :
 - Network protocols
 - Network ports
 - Network equipment
-- IP Addresses (IPv4/IPv6, Public vs Private)
+- [IP Addresses (IPv4/IPv6, Public vs Private)](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/blob/Roadmap/Ip-Adresses.md) (x minutes to complete)
 - MAC and ARP addresses
 - DNS (Domain Name System)
 - HTTP/HTTPS
@@ -53,7 +53,6 @@ The basics of security :
 - The CIA triad
 
 TO CHANGE !!
-- [Ip Adresses](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/blob/Roadmap/Ip-Adresses.md) (x minutes to complete)
 - [Networks](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/blob/Roadmap/Networks.md) (x minutes to complete)
 - [Firewall](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/blob/Roadmap/Firewall.md) (x minutes to complete)
 
