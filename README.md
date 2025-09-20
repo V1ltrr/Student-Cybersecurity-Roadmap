@@ -33,6 +33,12 @@ Introduction to Cybersecurity :
 Topic HERE : 
 - file HERE
 - file HERE
+
+<h2 >  Ressources and inspirations : </h2>
+This roadmap is inspired by free and paid content and resources, including websites, digitized files, videos, and books.
+
+The content that guided and inspired me in creating this roadmap includes :
+- The 101 concepts in cybersecurity ! ([digitized file here](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/blob/Roadmap/Ip-Adresses.md))
                      
 <h2 >  An error in the roadmap ? </h2>
 
