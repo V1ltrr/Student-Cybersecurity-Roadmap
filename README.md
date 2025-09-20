@@ -44,6 +44,13 @@ Operating systems :
 - File systems
 - Processes and services
 - User and group management
+- System logs and event management
+- Command line basics
+- Permissions and access control
+- Basic PowerShell and Linux commands
+
+The basics of security :
+- The CIA triad
 
 TO CHANGE !!
 - [Ip Adresses](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/blob/Roadmap/Ip-Adresses.md) (x minutes to complete)
