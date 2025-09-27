@@ -27,7 +27,7 @@ This path is essentially based on my own experience, so it has been adapted to a
 
 Network basics :
 - [OSI model](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/blob/Roadmap/OSI%20model.md) (x minutes to complete)
-- [TCP/IP model](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/blob/Roadmap/TCP-IP%20model.md)
+- [TCP/IP model](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/blob/Roadmap/TCP-IP%20model.md) (x minutes to complete)
 - Network protocols
 - Network ports
 - Network equipment
