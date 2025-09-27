@@ -3,9 +3,10 @@
 
 ---
 
-<h2 >  1. What is cybersecurity </h2>
-<h2 >  2. Common threats </h2>
-<h2 >  3. Essential definitions </h2>
+<h2 >  1. Structure of an IPv4 address and basics of subnetting </h2>
+<h2 >  2. Difference between private and public addresses </h2>
+<h2 >  3. Introduction to IPv6 and why it is necessary </h2>
+<h2 >  4. Special cases : loopback, multicast </h2>
 
 
 
