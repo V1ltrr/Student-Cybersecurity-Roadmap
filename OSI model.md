@@ -8,22 +8,16 @@ The OSI model was the first standard model for network communications, adopted b
 
 The modern Internet is not based on OSI, but on the simpler TCP/IP model. However, the OSI 7-layer model is still widely used, as it helps visualize and communicate how networks operate.
 
----
-
 <h2 > Video Resources </h2>
 
 - [Video by RealPars](https://youtu.be/Ilk7UXzV_Qc?si=PoqjCFDapxSdtmvD)
 - [Video by ByteByteGo](https://www.youtube.com/watch?v=0y6FtKsg6J4)
-  
----
 
 <h2 > Websites Resources </h2>
 
 - [Impreva](https://www.imperva.com/learn/application-security/osi-model/)
 - [Cloudflare](https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/)
 - [Geeks For Geeks](https://www.geeksforgeeks.org/computer-networks/open-systems-interconnection-model-osi/)
-
----
 
 <h2 > TryHackMe Resources </h2>
 
