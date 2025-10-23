@@ -1,5 +1,5 @@
 <h1> OSI model </h1>
-<h2 >  0. Description </h2>
+<h2>  0. Description </h2>
 The Open Systems Interconnection (OSI) model describes seven layers that computer systems use to communicate over a network. The OSI model is divided into seven distinct layers, each with specific responsibilities, ranging from physical hardware connections to high-level application interactions.
 
 Each layer of the OSI model interacts with the layer directly above and below it, encapsulating and transmitting data in a structured manner. This approach helps network professionals troubleshoot issues, as problems can be isolated to a specific layer. The OSI model serves as a universal language for networking, providing a common ground for different systems to communicate effectively.
@@ -10,7 +10,7 @@ The modern Internet is not based on OSI, but on the simpler TCP/IP model. Howeve
 
 ---
 
-<h2 >  1. Why Is the OSI Model Important? </h2>
+<h2>  1. Why Is the OSI Model Important? </h2>
 The OSI model provides several advantages for organizations managing networks and communications:
 
 Shared understanding of complex systems: OSI offers a universal language for networking, enabling different network devices and software to communicate. By dividing communication into seven distinct layers, it allows network professionals to isolate and troubleshoot problems effectively.
@@ -19,10 +19,23 @@ Flexible standardization: The model’s layered approach allows for the integrat
 
 ---
 
-<h2 >  2. The 7 layers of the OSI model and their responsibilities </h2>
+<h2>  2. The 7 layers of the OSI model and their responsibilities </h2>
 <p align="center">
   <img src="OSI-7-layers.png">
 </p>
+<h3>  2.1 Application Layer </h3>
+
+<h3>  2.2 Presentation Layer </h3>
+
+<h3>  2.3 Session Layer </h3>
+
+<h3>  2.4 Transport Layer </h3>
+
+<h3>  2.5 Network Layer </h3>
+
+<h3>  2.6 Data Link Layer </h3>
+
+<h3>  2.7 Physical Layer </h3>
 
 ---
 
@@ -36,7 +49,8 @@ Flexible standardization: The model’s layered approach allows for the integrat
 <h2 >  Additional Resources </h2>
 
 - THM[^1] room : [Networking Concepts](https://tryhackme.com/room/networkingconcepts)
-- Youtube video : 
+- Youtube video : [video by RealPars](https://youtu.be/Ilk7UXzV_Qc?si=PoqjCFDapxSdtmvD)
+- OSI Model explained by Imperva : [Website](https://www.imperva.com/learn/application-security/osi-model/) 
 
 ---
 
