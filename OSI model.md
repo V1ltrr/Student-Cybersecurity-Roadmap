@@ -1,5 +1,5 @@
 <h1> OSI model </h1>
-<h2>  0. Description </h2>
+<h2> Description </h2>
 The Open Systems Interconnection (OSI) model describes seven layers that computer systems use to communicate over a network. The OSI model is divided into seven distinct layers, each with specific responsibilities, ranging from physical hardware connections to high-level application interactions.
 
 Each layer of the OSI model interacts with the layer directly above and below it, encapsulating and transmitting data in a structured manner. This approach helps network professionals troubleshoot issues, as problems can be isolated to a specific layer. The OSI model serves as a universal language for networking, providing a common ground for different systems to communicate effectively.
@@ -10,21 +10,25 @@ The modern Internet is not based on OSI, but on the simpler TCP/IP model. Howeve
 
 ---
 
-<h2 >  Video Resources </h2>
+<h2 > Video Resources </h2>
 
 - [Video by RealPars](https://youtu.be/Ilk7UXzV_Qc?si=PoqjCFDapxSdtmvD)
+- [Video by ByteByteGo](https://www.youtube.com/watch?v=0y6FtKsg6J4)
   
 ---
 
-<h2 >  Websites Resources </h2>
+<h2 > Websites Resources </h2>
 
-- [Impreva](https://www.imperva.com/learn/application-security/osi-model/) 
+- [Impreva](https://www.imperva.com/learn/application-security/osi-model/)
+- [Cloudflare](https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/)
+- [Geeks For Geeks](https://www.geeksforgeeks.org/computer-networks/open-systems-interconnection-model-osi/)
 
 ---
 
-<h2 >  TryHackMe Resources </h2>
+<h2 > TryHackMe Resources </h2>
 
 - [Networking Concepts](https://tryhackme.com/room/networkingconcepts)
+- [Introductory Networking](https://tryhackme.com/room/introtonetworking)
 
 ---
 
