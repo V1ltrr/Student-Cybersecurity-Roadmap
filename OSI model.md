@@ -10,53 +10,23 @@ The modern Internet is not based on OSI, but on the simpler TCP/IP model. Howeve
 
 ---
 
-<h2>  1. Why Is the OSI Model Important? </h2>
-The OSI model provides several advantages for organizations managing networks and communications:
+<h2 >  Video Resources </h2>
 
-Shared understanding of complex systems: OSI offers a universal language for networking, enabling different network devices and software to communicate. By dividing communication into seven distinct layers, it allows network professionals to isolate and troubleshoot problems effectively.
-Faster research and development: Developers can focus on improving specific layers without affecting others, leading to more rapid innovations. This modular approach enables specialization and enables different teams to work on various aspects of network communication simultaneously.
-Flexible standardization: The model’s layered approach allows for the integration of new technologies at any layer without disrupting the overall network structure. This ensures compatibility across different devices and protocols, ensuring long-term viability and scalability of network infrastructure.
+- [Video by RealPars](https://youtu.be/Ilk7UXzV_Qc?si=PoqjCFDapxSdtmvD)
+  
+---
+
+<h2 >  Websites Resources </h2>
+
+- [Impreva](https://www.imperva.com/learn/application-security/osi-model/) 
 
 ---
 
-<h2>  2. The 7 layers of the OSI model and their responsibilities </h2>
-<p align="center">
-  <img src="OSI-7-layers.png">
-</p>
-<h3>  2.1 Application Layer </h3>
+<h2 >  TryHackMe Resources </h2>
 
-<h3>  2.2 Presentation Layer </h3>
-
-<h3>  2.3 Session Layer </h3>
-
-<h3>  2.4 Transport Layer </h3>
-
-<h3>  2.5 Network Layer </h3>
-
-<h3>  2.6 Data Link Layer </h3>
-
-<h3>  2.7 Physical Layer </h3>
+- [Networking Concepts](https://tryhackme.com/room/networkingconcepts)
 
 ---
 
-<h2 >  3. Protocols and equipment associated with each layer </h2>
-<h2 >  4. Real-world examples of OSI in action </h2>
-
-
-
----
-
-<h2 >  Additional Resources </h2>
-
-- THM[^1] room : [Networking Concepts](https://tryhackme.com/room/networkingconcepts)
-- Youtube video : [video by RealPars](https://youtu.be/Ilk7UXzV_Qc?si=PoqjCFDapxSdtmvD)
-- OSI Model explained by Imperva : [Website](https://www.imperva.com/learn/application-security/osi-model/) 
-
----
 
 Return to the [home page](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/blob/main/README.md).
-
-
-
-
-[^1]: TryHackMe, a recognized training platform that allows you to learn cybersecurity in a practical and fun way.
