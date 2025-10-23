@@ -22,6 +22,7 @@ Flexible standardization: The model’s layered approach allows for the integrat
   <img src="OSI-7-layers.png">
 </p>
 
+
 <h2 >  3. Protocols and equipment associated with each layer </h2>
 <h2 >  4. Real-world examples of OSI in action </h2>
 
