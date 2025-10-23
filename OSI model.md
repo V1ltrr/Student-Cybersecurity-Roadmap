@@ -8,6 +8,8 @@ The OSI model was the first standard model for network communications, adopted b
 
 The modern Internet is not based on OSI, but on the simpler TCP/IP model. However, the OSI 7-layer model is still widely used, as it helps visualize and communicate how networks operate.
 
+---
+
 <h2 >  1. Why Is the OSI Model Important? </h2>
 The OSI model provides several advantages for organizations managing networks and communications:
 
@@ -22,6 +24,7 @@ Flexible standardization: The model’s layered approach allows for the integrat
   <img src="OSI-7-layers.png">
 </p>
 
+---
 
 <h2 >  3. Protocols and equipment associated with each layer </h2>
 <h2 >  4. Real-world examples of OSI in action </h2>
