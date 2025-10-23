@@ -18,7 +18,9 @@ Flexible standardization: The model’s layered approach allows for the integrat
 ---
 
 <h2 >  2. The 7 layers of the OSI model and their responsibilities </h2>
-![alt text](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/blob/Roadmap/OSI-7-layers.png)
+<p align="center">
+  <img src="OSI-7-layers.png">
+</p>
 
 <h2 >  3. Protocols and equipment associated with each layer </h2>
 <h2 >  4. Real-world examples of OSI in action </h2>
