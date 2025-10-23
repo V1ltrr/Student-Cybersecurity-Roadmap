@@ -26,12 +26,12 @@ This path is essentially based on my own experience, so it has been adapted to a
 <h2 >  Roadmap </h2>
 
 Network basics :
-- [OSI model](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/blob/Roadmap/OSI%20model.md) (x minutes to complete)
-- [TCP/IP model](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/blob/Roadmap/TCP-IP%20model.md) (x minutes to complete)
+- [OSI model](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/blob/Roadmap/OSI%20model.md) 
+- [TCP/IP model](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/blob/Roadmap/TCP-IP%20model.md) 
 - Network protocols
 - Network ports
 - Network equipment
-- [IP Addresses (IPv4/IPv6, Public vs Private)](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/blob/Roadmap/Ip-Adresses.md) (x minutes to complete)
+- [IP Addresses (IPv4/IPv6, Public vs Private)](https://github.com/V1ltrr/Student-Cybersecurity-Roadmap/blob/Roadmap/Ip-Adresses.md) 
 - MAC and ARP addresses
 - DNS (Domain Name System)
 - HTTP/HTTPS
